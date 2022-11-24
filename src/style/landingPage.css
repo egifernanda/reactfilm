@@ -1,0 +1,45 @@
+.MyBG {
+  height: 100vh;
+  background: url(../assets/images/bg/moviebg.png);
+  background-size: cover;
+}
+
+.intro {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px green;
+  letter-spacing: 2px;
+}
+
+.trending {
+  height: auto;
+  background: url(../assets/images/bg/moviebg.png);
+  background-size: cover;
+}
+
+.superhero {
+  height: auto;
+  background: url(../assets/images/bg/moviebg.png);
+  background-size: cover;
+}
+
+.MovieImage {
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+}
+
+.ImageCard {
+  height: 400px;
+}
+
+.MovieWrapper {
+}
